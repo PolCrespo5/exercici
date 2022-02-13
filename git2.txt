@@ -1,1 +1,2 @@
 Hola aquest és el git2.txt
+Aquesta és una modificació
